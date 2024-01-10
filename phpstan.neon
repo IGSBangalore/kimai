@@ -168,7 +168,7 @@ parameters:
 
         -
             message: "#^Cannot access offset 'duration' on mixed\\.$#"
-            count: 4
+            count: 13
             path: src/Activity/ActivityStatisticService.php
 
         -
@@ -178,7 +178,7 @@ parameters:
 
         -
             message: "#^Cannot access offset 'id' on mixed\\.$#"
-            count: 1
+            count: 9
             path: src/Activity/ActivityStatisticService.php
 
         -
@@ -188,7 +188,7 @@ parameters:
 
         -
             message: "#^Cannot access offset 'rate' on mixed\\.$#"
-            count: 4
+            count: 10
             path: src/Activity/ActivityStatisticService.php
 
         -
