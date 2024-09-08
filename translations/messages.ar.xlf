@@ -1551,8 +1551,8 @@
         <target state="translated">إجازة</target>
       </trans-unit>
       <trans-unit id="Nw2x5hI" resname="sickness_child" xml:space="preserve">
-        <source>sickness_child</source>
-        <target state="translated">مرض الطفل</target>
+        <source>Sickness of a relative</source>
+        <target state="needs-translation">مرض الطفل</target>
       </trans-unit>
       <trans-unit id="JmpBuQ1" resname="Translations" xml:space="preserve">
         <source>Translations</source>

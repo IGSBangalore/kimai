@@ -1642,9 +1642,9 @@
         <source>Custom content</source>
         <target state="translated">Contenido personalizado</target>
       </trans-unit>
-      <trans-unit id="Nw2x5hI" resname="sickness_child">
-        <source>sickness_child</source>
-        <target state="translated">Enfermedad de un hijo</target>
+      <trans-unit id="Nw2x5hI" resname="sickness_child" xml:space="preserve">
+        <source>Sickness of a relative</source>
+        <target state="translated">Enfermedad de un familiar</target>
       </trans-unit>
       <trans-unit id="XE01Ar1" resname="parental">
         <source>parental</source>

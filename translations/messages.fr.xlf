@@ -1610,9 +1610,9 @@
         <source>send_to</source>
         <target state="translated">Envoyer à %name%</target>
       </trans-unit>
-      <trans-unit id="Nw2x5hI" resname="sickness_child">
-        <source>sickness_child</source>
-        <target state="translated">Maladie d'un enfant</target>
+      <trans-unit id="Nw2x5hI" resname="sickness_child" xml:space="preserve">
+        <source>Sickness of a relative</source>
+        <target state="needs-translation">Maladie d'un enfant</target>
       </trans-unit>
       <trans-unit id="N6juwc4" resname="default" xml:space="preserve">
         <source>default</source>

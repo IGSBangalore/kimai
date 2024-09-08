@@ -1602,9 +1602,9 @@
         <source>Category</source>
         <target state="translated">Kategorija</target>
       </trans-unit>
-      <trans-unit id="Nw2x5hI" resname="sickness_child">
-        <source>sickness_child</source>
-        <target state="translated">Bolest djeteta</target>
+      <trans-unit id="Nw2x5hI" resname="sickness_child" xml:space="preserve">
+        <source>Sickness of a relative</source>
+        <target state="needs-translation">Bolest djeteta</target>
       </trans-unit>
       <trans-unit id="0xFBb6O" resname="Expenses">
         <source>Expenses</source>

@@ -1622,9 +1622,9 @@
         <source>days</source>
         <target state="translated">Дні</target>
       </trans-unit>
-      <trans-unit id="Nw2x5hI" resname="sickness_child">
-        <source>sickness_child</source>
-        <target state="translated">Хвороба дитини</target>
+      <trans-unit id="Nw2x5hI" resname="sickness_child" xml:space="preserve">
+        <source>Sickness of a relative</source>
+        <target state="needs-translation">Хвороба дитини</target>
       </trans-unit>
       <trans-unit id="Vp7xjKh" resname="Audit logs">
         <source>Audit logs</source>

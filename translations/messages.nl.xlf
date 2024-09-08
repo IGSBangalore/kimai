@@ -1663,8 +1663,8 @@
         <target state="translated">Ouderschapsverlof</target>
       </trans-unit>
       <trans-unit id="Nw2x5hI" resname="sickness_child" xml:space="preserve">
-        <source>sickness_child</source>
-        <target state="translated">Ziekte kind</target>
+        <source>Sickness of a relative</source>
+        <target state="needs-translation">Ziekte kind</target>
       </trans-unit>
       <trans-unit id="CDTC1gc" resname="supervisor" xml:space="preserve">
         <source>supervisor</source>

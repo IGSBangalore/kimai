@@ -1583,8 +1583,8 @@
         <target state="translated">Boală</target>
       </trans-unit>
       <trans-unit id="Nw2x5hI" resname="sickness_child" xml:space="preserve">
-        <source>sickness_child</source>
-        <target state="translated">Boala unui copil</target>
+        <source>Sickness of a relative</source>
+        <target state="needs-translation">Boala unui copil</target>
       </trans-unit>
       <trans-unit id="Od3xvQK" resname="button.report" xml:space="preserve">
         <source>button.report</source>

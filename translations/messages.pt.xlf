@@ -1562,9 +1562,9 @@
         <source>Absence calendar</source>
         <target state="translated">Calendário de ausências</target>
       </trans-unit>
-      <trans-unit id="Nw2x5hI" resname="sickness_child">
-        <source>sickness_child</source>
-        <target state="translated">Doença da criança</target>
+      <trans-unit id="Nw2x5hI" resname="sickness_child" xml:space="preserve">
+        <source>Sickness of a relative</source>
+        <target state="needs-translation">Doença da criança</target>
       </trans-unit>
       <trans-unit id=".wmq_rT" resname="force_password_change">
         <source>force_password_change</source>

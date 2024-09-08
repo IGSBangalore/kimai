@@ -1642,9 +1642,9 @@
         <source>Custom content</source>
         <target state="final">Contenuti personalizzati</target>
       </trans-unit>
-      <trans-unit id="Nw2x5hI" resname="sickness_child" approved="yes">
-        <source>sickness_child</source>
-        <target state="final">Malattia di un bambino</target>
+      <trans-unit id="Nw2x5hI" resname="sickness_child" approved="no" xml:space="preserve">
+        <source>Sickness of a relative</source>
+        <target state="translated">Malattia di un parente</target>
       </trans-unit>
       <trans-unit id="XE01Ar1" resname="parental" approved="yes">
         <source>parental</source>
@@ -1749,6 +1749,22 @@
       <trans-unit id="M_WE1pa" resname="booking_allow_only_work_days" xml:space="preserve" approved="yes">
         <source>booking_allow_only_work_days</source>
         <target state="final">Consenti l'inserimento delle ore solo per i giorni per i quali le ore previste sono definite nel contratto di lavoro</target>
+      </trans-unit>
+      <trans-unit id="J_teUVB" resname="updated" xml:space="preserve" approved="yes">
+        <source>Updated</source>
+        <target state="final">Aggiornato</target>
+      </trans-unit>
+      <trans-unit id="QG7.sen" resname="created" xml:space="preserve" approved="yes">
+        <source>Created</source>
+        <target state="final">Creato</target>
+      </trans-unit>
+      <trans-unit id="H1i5FFs" resname="request" xml:space="preserve" approved="yes">
+        <source>request</source>
+        <target state="final">Richiedi</target>
+      </trans-unit>
+      <trans-unit id="dOIWgOr" resname="approve" xml:space="preserve" approved="yes">
+        <source>approve</source>
+        <target state="final">Approva</target>
       </trans-unit>
     </body>
   </file>
