@@ -1711,8 +1711,8 @@
         <target state="translated">Aktywuj</target>
       </trans-unit>
       <trans-unit id="Nw2x5hI" resname="sickness_child" xml:space="preserve">
-        <source>sickness_child</source>
-        <target state="translated">Choroba dziecka</target>
+        <source>Sickness of a relative</source>
+        <target state="needs-translation">Choroba dziecka</target>
       </trans-unit>
       <trans-unit id="csAXaBa" resname="button.request" xml:space="preserve">
         <source>button.request</source>

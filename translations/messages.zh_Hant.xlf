@@ -1018,9 +1018,9 @@
         <source>notifications.welcome</source>
         <target state="final">感謝您允許通知！</target>
       </trans-unit>
-      <trans-unit id="Nw2x5hI" resname="sickness_child" xml:space="preserve" approved="yes">
-        <source>sickness_child</source>
-        <target state="final">子女病假</target>
+      <trans-unit id="Nw2x5hI" resname="sickness_child" xml:space="preserve" approved="no">
+        <source>Sickness of a relative</source>
+        <target state="needs-translation">子女病假</target>
       </trans-unit>
       <trans-unit id="m8V2yFG" resname="status.progress" xml:space="preserve" approved="yes">
         <source>status.progress</source>

@@ -26,6 +26,10 @@
         <source>invoice_calculator.help</source>
         <target state="translated">Pilih berdasarkan bidang mana item faktur harus dikelompokkan</target>
       </trans-unit>
+      <trans-unit id="N6juwc4" resname="default" xml:space="preserve">
+        <source>default</source>
+        <target state="translated">Default (satu baris per entri)</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -1542,13 +1542,13 @@
         <source>sickness</source>
         <target state="translated">מחלה</target>
       </trans-unit>
-      <trans-unit id="2SmKENG" resname="other">
+      <trans-unit id="2SmKENG" resname="other" xml:space="preserve" approved="yes">
         <source>other</source>
-        <target state="translated">אחר</target>
+        <target state="final">אחר</target>
       </trans-unit>
-      <trans-unit id="csAXaBa" resname="button.request">
+      <trans-unit id="csAXaBa" resname="button.request" xml:space="preserve" approved="yes">
         <source>button.request</source>
-        <target state="translated">הגשה</target>
+        <target state="final">הגשה</target>
       </trans-unit>
       <trans-unit id="YDrWFFP" resname="sickness.intro">
         <source>sickness.intro</source>
@@ -1610,9 +1610,9 @@
         <source>Category</source>
         <target>קטגוריה</target>
       </trans-unit>
-      <trans-unit id="Nw2x5hI" resname="sickness_child">
-        <source>sickness_child</source>
-        <target state="translated">מחלת ילד</target>
+      <trans-unit id="Nw2x5hI" resname="sickness_child" xml:space="preserve" approved="yes">
+        <source>Sickness of a relative</source>
+        <target state="final">מחלת קרוב משפחה</target>
       </trans-unit>
       <trans-unit id="Vp7xjKh" resname="Audit logs">
         <source>Audit logs</source>
@@ -1749,6 +1749,22 @@
       <trans-unit id="M_WE1pa" resname="booking_allow_only_work_days" xml:space="preserve">
         <source>booking_allow_only_work_days</source>
         <target state="translated">לאפשר רשומות שעות רק לימים שעבורם השעות הצפויות מוגדרות בחוזה ההעסקה</target>
+      </trans-unit>
+      <trans-unit id="QG7.sen" resname="created" xml:space="preserve" approved="yes">
+        <source>Created</source>
+        <target state="final">יצירה</target>
+      </trans-unit>
+      <trans-unit id="H1i5FFs" resname="request" xml:space="preserve" approved="yes">
+        <source>request</source>
+        <target state="final">בקשה</target>
+      </trans-unit>
+      <trans-unit id="dOIWgOr" resname="approve" xml:space="preserve" approved="yes">
+        <source>approve</source>
+        <target state="final">אישור</target>
+      </trans-unit>
+      <trans-unit id="J_teUVB" resname="updated" xml:space="preserve" approved="yes">
+        <source>Updated</source>
+        <target state="final">עדכון</target>
       </trans-unit>
     </body>
   </file>

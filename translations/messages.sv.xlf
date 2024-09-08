@@ -1679,8 +1679,8 @@
         <target state="translated">Ett unikt ID som används för autentisering och vid export av data</target>
       </trans-unit>
       <trans-unit id="Nw2x5hI" resname="sickness_child" xml:space="preserve">
-        <source>sickness_child</source>
-        <target state="translated">Vård av barn</target>
+        <source>Sickness of a relative</source>
+        <target state="needs-translation">Vård av barn</target>
       </trans-unit>
       <trans-unit id=".wmq_rT" resname="force_password_change" xml:space="preserve">
         <source>force_password_change</source>

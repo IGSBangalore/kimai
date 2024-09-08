@@ -1682,9 +1682,9 @@
         <source>Absence calendar</source>
         <target state="translated">Devamsızlık takvimi</target>
       </trans-unit>
-      <trans-unit id="Nw2x5hI" resname="sickness_child">
-        <source>sickness_child</source>
-        <target state="translated">Çocuğun hastalanması</target>
+      <trans-unit id="Nw2x5hI" resname="sickness_child" xml:space="preserve">
+        <source>Sickness of a relative</source>
+        <target state="translated">Yakın akrabanın hastalanması</target>
       </trans-unit>
       <trans-unit id="q1EATp1" resname="days">
         <source>days</source>
